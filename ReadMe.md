@@ -1,9 +1,13 @@
+### Demo of the solution 
+
+![2021-07-25_02-22-59 (1)](https://user-images.githubusercontent.com/40739903/126880854-eb577f52-6003-4fbc-9477-b3612d56bf55.gif)
+
+
 ### Problem
 
 > We will be having an random ordered array, It will contain numbers can be positive, negative and decimals are also possible. We have to arrange these numbers in an form of `a1 <= a2 >= a3 <= a4 >= a5 <= a6 >=a7 ...etc` So it mean a kind of wave which start with the down. In a very layman's terms we can think of a wave which goes like `low -> hight -> low -> hight -> low -> ...`
 
 Note:- There can be `multiple arrangements` for the same array. This function should return any of the arrangements will be fine.
-
 #### Example
 
 - All positive random order numbers
