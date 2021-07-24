@@ -1,7 +1,13 @@
-### Demo of the solution 
+### Demo of the solution
 
 ![2021-07-25_02-22-59 (1)](https://user-images.githubusercontent.com/40739903/126880854-eb577f52-6003-4fbc-9477-b3612d56bf55.gif)
 
+### How to Test locally
+
+1. Clone the repo using `git clone git@github.com:Rohitturbot/number-rearrange.git`
+2. CD into that repo using `cd number-rearrange`
+3. Run `npm i` to install decencies
+4. Run `npm test` to run and see the code running.
 
 ### Problem
 
